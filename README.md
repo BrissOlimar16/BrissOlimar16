@@ -1,16 +1,24 @@
-## Hi there 👋
+## ✨ Hola, soy Briss 💙!!  
 
-<!--
-**BrissOlimar16/BrissOlimar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrissOlimar16/BrissOlimar16/main/README.png" width="300"/>
+</div>
 
-Here are some ideas to get you started:
+🎓 Estudiante de Licenciatura en Informatica.  
+💻 Interesada en desarrollo de software, bases de datos y seguridad. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+- 💡 Me gusta aprender constantemente
+- 📝 Aprendiendo nuevas tecnologías 
+- ☕ Explorando nuevos lenguajes de programación
+
+
+## 🛠️ Tecnologías
+- Java, C
+- MySQL, PostgreSQL
+- HTML, CSS, JavaScript
+- Git y GitHub
+
+
+## 📫 Contacto
+- Email: briss.olimar@gmail.com
